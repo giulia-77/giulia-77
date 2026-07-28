@@ -39,6 +39,8 @@
 - Computer Systems Architecture
 - Fundamentals of Programming
 - Computational Logic
+
+  
 ## 🌟 Experience & Volunteering
 
 ### 🎭 Theatre Association Volunteer
