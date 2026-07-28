@@ -54,8 +54,8 @@
 - Advanced Programming Methods
 - Databases
 - Logic and Functional Programming
+- Probability and Statistics
 - Computer Networks
-
 ---
 
 ## 📫 Contact me
