@@ -8,9 +8,9 @@
 
 💡 Interested in software development, technology and creative problem solving.
 
-📍 Cluj-Napoca, Romania
-
 ✨ Passionate about building projects, learning new skills and collaborating with others.
+
+📍 Cluj-Napoca, Romania
 
 ---
 ## 🚀 Languages
@@ -39,48 +39,29 @@
 - Computer Systems Architecture
 - Fundamentals of Programming
 - Computational Logic
+### ✅ Completed (Second Semester)
 
-  
-## 🌟 Experience & Volunteering
+-Operating Systems
+-Object-Oriented Programming
+-Data Structures & Algorithms
+-Geometry
+-Dynamic Systems
+-Graph Algorithms
 
-### 🎭 Theatre Association Volunteer
+### 🎓 Currently Taking (Third Semester)
 
-Communication & Ticketing Department
-
-- Assisted in organizing cultural events
-- Supported communication activities
-- Helped coordinate performances featuring artists such as Maia Morgenstern
-
-
-### 🏃 Movement & Children Activities Volunteer
-
-- Helped organize activities for children
-- Interacted with participants
-- Supported event coordination and teamwork
-
+-Advanced Programming Methods
+-Databases
+-Logic and Functional Programming
+-Probability and Statistics
+-Computer Networks
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact me
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight"/>
-
-</p>
-
-
----
-
-## 📫 Contact
-
-📧 Email: [email]
-
-💼 LinkedIn: [link]
-
-🌐 Portfolio: [link]
+📧 Email: barougiulia@icloud.com
+💼 LinkedIn: https://www.linkedin.com/in/giulia-b-248887389/
 
 
 ---
