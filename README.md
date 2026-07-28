@@ -39,22 +39,22 @@
 - Computer Systems Architecture
 - Fundamentals of Programming
 - Computational Logic
+
 ### ✅ Completed (Second Semester)
 
--Operating Systems
--Object-Oriented Programming
--Data Structures & Algorithms
--Geometry
--Dynamic Systems
--Graph Algorithms
+- Operating Systems
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Geometry
+- Dynamic Systems
+- Graph Algorithms
 
 ### 🎓 Currently Taking (Third Semester)
 
--Advanced Programming Methods
--Databases
--Logic and Functional Programming
--Probability and Statistics
--Computer Networks
+- Advanced Programming Methods
+- Databases
+- Logic and Functional Programming
+- Computer Networks
 
 ---
 
