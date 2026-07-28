@@ -60,8 +60,8 @@
 
 ## 📫 Contact me
 
-📧 Email: barougiulia@icloud.com
-💼 LinkedIn: https://www.linkedin.com/in/giulia-b-248887389/
+- 📧 Email: barougiulia@icloud.com
+- 💼 LinkedIn: https://www.linkedin.com/in/giulia-b-248887389/
 
 
 ---
